@@ -5,6 +5,7 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 </a>
+
 <a href="https://github.com/gigachad80/del-packURLs/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 
 #### del-packURLs : Automates the process of Information Disclosure Vulnerability Discovery 
