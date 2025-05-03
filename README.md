@@ -107,7 +107,7 @@ git clone https://github.com/gigachad80/del-packURLs
 
 ### 🤔 Why This Name?
 
- First, I decided to use both the Web Archive CDX API and [Waybackpack](https://github.com/jsvine/waybackpack) (one for fetching and one for showing the 200 status of archived URLs). However, after trying a lot, Waybackpack didn't work. Then, one day, an idea suddenly came to me: why not just do it normally using the CDX API, which would show timestamps, status codes, and URLs? After modifying it a bit, it easily showed all the archived URLs that once had a 200 OK status code but are currently 404. So, even though I didn't end up using Waybackpack, it was my initial approach. And ```del``` refers to deleted (404 Page not found). So, I named it del-packURLs.
+ First, I decided to use both the Web Archive CDX API and [Waybackpack](https://github.com/jsvine/waybackpack) (one for fetching and one for showing the 200 status of archived URLs). However, after trying a lot, Waybackpack didn't work. Then, one day, an idea suddenly came to me: why not just do it normally using the CDX API, which would show timestamps, status codes, and URLs? After modifying it a bit, it easily showed all the archived URLs that once had a 200 OK status code but are currently 404. So, even though I didn't end up using Waybackpack, it was my initial approach which refers to ```pack``` ,and ```del``` refers to deleted (404 Page not found). So, I named it del-packURLs.
 
 ### ⌚ Total Time taken in development , testing , trying diferent approaches & variations , debugging , even writing README. 
 
