@@ -76,7 +76,7 @@ git clone https://github.com/gigachad80/del-packURLs
     <li>Requirements txt : pip installs all AI models by default , so if you wnt to use single AI model , then install only that.'.</li>
     <li>Modify prompt : Check line 106 of <code>ai-suggestor.py</code> in to modify the prompt for suggestions.'.</li>
     <li>Python : It uses <code>python</code> for Windows & <code>python3</code> for Linux'.</li>
-    <li> Ai testing: I have only tested Gemini so far, because ChatGPT and Claude's API keys are not free, that's why 
+    <li> AI testing: I have only tested Gemini so far, because ChatGPT and Claude's API keys are not free, that's why 
     </li>
     <li>Starting Download: Script shows "Downloading: [URL]" first.</li>
     <li>File Not Found: "Not Found (404): [URL]" means URL is broken/removed.</li>
