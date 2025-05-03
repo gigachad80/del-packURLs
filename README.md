@@ -133,5 +133,5 @@ git clone https://github.com/gigachad80/del-packURLs
 
 Licensed under **GNU General Public License v3.0**
 
-🕒 Last Updated: March 28, 2025 
+🕒 Last Updated: April 3, 2025 
 
