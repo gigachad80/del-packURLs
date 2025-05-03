@@ -46,6 +46,8 @@
 | Finds all URLs     | Finds only files    |
 | Does not Use AI      | Use AI models like Gemini , Claude , GPT to suggest sensitive PDFs for analysis   |
 
+#### Fun Fact : I developed both of them.🤓
+
 ### 📝 Roadmap / To-do 
 
 - [ ] Add ```-load``` flag in syntax .
