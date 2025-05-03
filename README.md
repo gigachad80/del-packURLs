@@ -34,7 +34,7 @@ git clone https://github.com/gigachad80/del-packURLs
  -  ``` ./del-packURLs -domain example.com ---- and rest of flags```
   or just type the command 
  - ```./del-packURLs``` and it'll ask for domain & extension . Enter your target domain/URL and flags and run it . 
- you can use 
+
  4. For help or menu guide  , enter ```del-packURLs.go -h```
 
 
@@ -47,7 +47,7 @@ git clone https://github.com/gigachad80/del-packURLs
 | Finds all URLs     | Finds only files    |
 | Does not Use AI      | Use AI models like Gemini , Claude , GPT to suggest sensitive PDFs for analysis   |
 
-#### Fun Fact : I developed both of them.🤓
+#### Fun Fact : I developed both of them.🤓 My Repo for grep-backURLs: [Repo link](https://github.com/gigachad80/grepy)
 
 ### 📝 Roadmap / To-do 
 
