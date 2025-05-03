@@ -47,7 +47,7 @@ git clone https://github.com/gigachad80/del-packURLs
 | Finds all URLs     | Finds only files    |
 | Does not Use AI      | Use AI models like Gemini , Claude , GPT to suggest sensitive PDFs for analysis   |
 
-#### Fun Fact : I developed both of them.🤓 My Repo for grep-backURLs: [Repo link](https://github.com/gigachad80/grepy)
+#### Fun Fact : I developed both of them.🤓 My Repo for grep-backURLs: [Repo link](https://github.com/gigachad80/grep-backURLs)
 
 ### 📝 Roadmap / To-do 
 
