@@ -27,7 +27,10 @@
 
 ### 📥 Installation Guide & Usage 
 
- 1. Git clone this repo.
+ 1. Git clone the repo : 
+```
+git clone https://github.com/gigachad80/del-packURLs
+```
  2. Go to del-packURLs directory and give permission to main.go or you can directly build from the source ( go build ```del-packURLs.go``` )
  3. Run command ```./del-packURLs.go``` . Please note that either you can use whole syntax like this
  -  ``` ./del-packURLs -domain example.com ---- and rest of flags```
