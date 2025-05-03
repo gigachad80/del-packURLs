@@ -115,7 +115,7 @@ git clone https://github.com/gigachad80/del-packURLs
 
 ### 💓 Credits:
 
-  I extend my sincere gratitude to Wesley Hill for creating video This project simply wouldn't exist if they hadn't created it.
+  I extend my sincere gratitude to both IHA org. & CoffinXP for creating video This project simply wouldn't exist if they hadn't created it.
   
   - [Lossec aka CoffinXP](https://youtu.be/ND_0l-lpmf8?si=v9WGjhmlP4ZlMd1Q) and his video for inspiration.  
   - [ IHA 089 ](https://www.instagram.com/reel/DGNtxGGB8gN/?igsh=MWw1YWN4Y3JmcjQ5aw==) for IG Reel
